@@ -25,3 +25,32 @@ It runs in the console and continues chatting until the user types "bye".
 2. Open terminal in the project folder.
 3. Run the file:
 
+# Stock Portfolio Tracker - CodeAlpha Task 2
+
+# Description
+This Python program simulates a simple stock portfolio tracker.  
+Users can enter stock names and quantities, and the program calculates the total investment value based on predefined stock prices.  
+The total investment summary is also saved to a text file.
+
+# Features
+- Predefined stock price dictionary
+- Accepts multiple stock entries
+- Calculates individual and total investment
+- Saves total investment to a TXT file
+- Exits when user types "END"
+
+# Concepts Used
+- Dictionaries
+- Loops
+- Conditional statements
+- File handling
+- Basic arithmetic
+- Console Input/Output
+
+# How to Run
+1. Ensure Python is installed.
+2. Open terminal in project folder.
+3. Run the file:
+
+
+
